@@ -1,9 +1,6 @@
 # Pós Graduação CDS – Fundamentos de Estatística
 ## Projeto do Aluno – dados da Olist			
 
-Samanta Nogueira de Souza Sobral						
-31/05/2025
-
 A base de dados disponível no Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) é de um e-commerce brasileiro, com dados de 2016 a 2018 dos pedidos, dos produtos, dos clientes, vendedores e tempo de entrega. Este projeto visa criar dois modelos de regressão linear para prever a data de entrega e fazer testes de hipóteses para verificar se há diferença significante entre o tempo previsto pelo modelo e o tempo real de entrega em relação a algumas categorias de produtos.
 A base total foi dividida em duas partes: 70% desenvolvimento e 30% validação.
 Alterei as medidas do volume e do peso do produto de cm³ para litros, e de g para kg, respectivamente.
